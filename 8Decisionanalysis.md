@@ -1,6 +1,6 @@
 # 决策分析（Decision Analysis）
 
-\frac{|A\bigcap{B}|}{|A\bigcup{B}|}
+$$ \frac{|A\bigcap{B}|}{|A\bigcup{B}|} $$
 
 ## 一、背景：
 
